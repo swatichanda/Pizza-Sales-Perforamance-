@@ -112,4 +112,4 @@ These insights can help the business:
 5. Increase profitability through data-driven decision-making.
 
 📷 Dashboard Preview
-link - 
+link - https://github.com/swatichanda/Pizza-Sales-Perforamance-/blob/main/Pizza%20Dashboard.png
