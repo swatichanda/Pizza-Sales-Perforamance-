@@ -1,6 +1,6 @@
 # Pizza-Sales-Perforamance
 🍕 Pizza Sales Performance Dashboard
-📌Purpose
+
 The Pizza Sales Performance Dashboard is an interactive Business Intelligence project developed using Microsoft Power BI and PostgreSQL. The dashboard transforms raw pizza sales data into meaningful insights, helping stakeholders monitor sales performance, identify customer purchasing trends, evaluate product performance, and make data-driven business decisions.
 
 This project demonstrates my skills in SQL, Power BI, data modeling, DAX, and dashboard design by building a complete end-to-end analytics solution.
