@@ -16,14 +16,22 @@ DAX (Data Analysis Expressions) – KPI Calculations & Measures
 ✨ Features / Highlights
 
 📊 Interactive KPI Cards (Revenue, Orders, Average Order Value, Pizzas Sold)
+
 📅 Monthly Revenue Trend Analysis
+
 🏆 Top & Bottom Performing Pizzas
+
 🍕 Sales Distribution by Pizza Category
+
 📏 Sales Distribution by Pizza Size
+
 📆 Orders by Day of the Week
+
 📦 Quantity Sold by Size & Category
+
 🌳 Revenue Breakdown using Treemap
-🎛️ Dynamic Filters for Month, Category, and Pizza Size
+
+🎛️ Dynamic Filters for Month, Category, and Pizza Size 
 
 📈 Business Problem
 
